@@ -5,3 +5,4 @@ node_modules
 *.vsix
 sensitive_words_lines.txt
 *.zip
+.DS_Store
